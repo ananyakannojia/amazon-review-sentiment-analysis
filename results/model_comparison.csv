@@ -1,0 +1,7 @@
+Metric,LSTM,BERT
+Accuracy,0.8557,0.907
+Macro Precision,0.7224,0.782
+Macro Recall,0.7408,0.7918
+Macro F1,0.7211,0.7867
+Training Time (minutes),0.36,19.16
+Model Size (MB),15.51,418.35
