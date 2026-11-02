@@ -8,6 +8,8 @@ Amazon Reviews 2023 - All Beauty
 Original Reviews: 701,528
 Experiment Samples: 30,000
 
+Dataset link - https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023?utm_source=chatgpt.com
+
 DATA SPLIT
 ----------
 Training: 24,000
