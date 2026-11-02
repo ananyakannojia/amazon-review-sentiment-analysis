@@ -1,5 +1,3 @@
-# amazon-review-sentiment-analysis
-
 
 AMAZON PRODUCT REVIEW SENTIMENT ANALYSIS
 ========================================
